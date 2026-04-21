@@ -90,7 +90,7 @@
       ],
       "zoom": 11
     },
-    {
+   {
       "name": "Pune Metropolitan Region (PMRDA)",
       "cogUrl": "https://pub-5d7a831c335c4d83b8b0f8ebe750e175.r2.dev/City-Tiles/PMRDA_COG.tif",
       "center": [
@@ -99,5 +99,17 @@
       ],
       "zoom": 11
     }
+
+     {
+      "name": "Bhopal Development Plan 2031 (Draft)",
+      "cogUrl": " https://mapwarper.net/maps/tile/105480/{z}/{x}/{y}.png",
+      "center": [
+        745579,
+        2573135
+      ],
+      "zoom": 11
+    }
+
+  
   ]
 }
